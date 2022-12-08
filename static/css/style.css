@@ -181,6 +181,7 @@ a {
   }
 
   h2 {
+    display: block;
     font-size: 1.25rem;
     color: black;
     font-weight: 600;
